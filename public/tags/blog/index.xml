@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on it&#39;s my life</title>
-    <link>http://thisisbobo.github.io/tags/blog/</link>
+    <link>http://www.example.com/tags/blog/</link>
     <description>Recent content in Blog on it&#39;s my life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>© 2011~2016 kiersonal ♪ Powered by Jekyll.</copyright>
     <lastBuildDate>Sat, 30 Jan 2016 21:53:51 -0800</lastBuildDate>
-    <atom:link href="http://thisisbobo.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.example.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>谈谈创建该博客的事</title>
-      <link>http://thisisbobo.github.io/2016/01/30/%E8%B0%88%E8%B0%88%E5%88%9B%E5%BB%BA%E8%AF%A5%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BA%8B/</link>
+      <link>http://www.example.com/2016/01/30/%E8%B0%88%E8%B0%88%E5%88%9B%E5%BB%BA%E8%AF%A5%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BA%8B/</link>
       <pubDate>Sat, 30 Jan 2016 21:53:51 -0800</pubDate>
       
-      <guid>http://thisisbobo.github.io/2016/01/30/%E8%B0%88%E8%B0%88%E5%88%9B%E5%BB%BA%E8%AF%A5%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BA%8B/</guid>
+      <guid>http://www.example.com/2016/01/30/%E8%B0%88%E8%B0%88%E5%88%9B%E5%BB%BA%E8%AF%A5%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BA%8B/</guid>
       <description>
 
 &lt;p&gt;怎么说呢，其实有这个想法是很早之前就有的了，想着说自己也该写点东西，去记录自己的成长，回首往日的自己，反省。但毕竟只是想想，睡一觉也就忘记了。而在今年年初，关闭了朋友圈，不再刷新社交软件。我把这个当作一种成长吧。无处分享自己的想法，是一种煎熬……于是，就在网上疯狂地寻找着如何创建博客的资料。自己就想着，弄个博客也算是对自己的宽恕吧！&lt;/p&gt;
@@ -26,7 +26,7 @@
 
 &lt;p&gt;这段时间自己为了弄个博客基本上弄到晚上很晚，并不是想说自己有多么努力，因为毕竟是自己喜欢的啊，是自己愿意去做的啊！这是天注定？在完成一个简陋的框架之后，妈妈跟我说明天是我的生日。但是自己对生日的概念已经模糊了，感觉没什么值得纪念的。从来没有想过，这个最为特殊的生日，我送给了自己最好的礼物——这个blog。也许简陋到爆，大家看到的那些乱七八糟的文章其实还在测试——也许过段时间我会把它们删了；还不知道怎么发图，发链接，评论。不过没关系，不需要向大家承诺，我自己会在日后一点点地更新。&lt;/p&gt;
 
-&lt;h3 id=&#34;结语&#34;&gt;结语：&lt;/h3&gt;
+&lt;h3 id=&#34;结语:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;结语：&lt;/h3&gt;
 
 &lt;p&gt;想起了在来到西雅图之后的第二天，写过这么一句话：把自己打成狗，重新做人！今天，这个孩子已经四个月大，我会把他抚养成一名优秀的人的！&lt;/p&gt;
 </description>
